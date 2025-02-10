@@ -8,7 +8,7 @@ The project’s main goal is to practice the basic SQL operations such as:
   - Manufacturer Summary
   - Discounted Price for Older Models
   - Recent Releases
-- creating procedures for
+- creating stored procedures for
    - adding a new phone
    - updating phone information
    - retrieving phone defines by ID
