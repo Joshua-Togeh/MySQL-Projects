@@ -1,5 +1,5 @@
-# Online Phone shop database design
-In this project I build a simple database to hold information about phones available in an online shop.
+# Online Phone shop database
+In this project I built a simple database to hold information about phones available in an online shop.
 The project’s main goal is to practice the basic SQL operations such as:
 
 - Creating a database and tables
@@ -14,10 +14,10 @@ The project’s main goal is to practice the basic SQL operations such as:
    - retrieving phone defines by ID
    - retrieving phone released in a date range
  
-# sales database design
-In this project, I build a simple database to hold information about sales available in a shop. The project’s 
+# sales(furniture, clothing, electronic) database
+In this project, I built a simple database to hold information about sales available in a shop. The project’s 
 main goal is to create a tables that hold clothing sales, furniture sales, electronics sale.
-I created view for monthly sale report and total sales made from furniture, electronics, and clothing every month
+I created view for monthly sale report and total sales made from furniture, electronics, and clothing every month.
 
 
  
